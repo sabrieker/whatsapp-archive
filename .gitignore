@@ -1,0 +1,61 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+.eggs/
+
+# Environment
+.env
+.env.local
+.env.*.local
+*.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Build artifacts
+*.log
+*.pot
+*.mo
+
+# Frontend
+frontend/dist/
+frontend/node_modules/
+
+# Backend
+backend/__pycache__/
+backend/*.egg-info/
+backend/.pytest_cache/
+
+# Uploads and data (local development)
+uploads/
+data/
+*.db
+*.sqlite
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Docker
+.docker/
