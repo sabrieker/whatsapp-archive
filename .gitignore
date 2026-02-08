@@ -16,6 +16,10 @@ eggs/
 .env.*.local
 *.local
 
+# Local notes (not for repo)
+.local-notes.md
+.local-*
+
 # IDE
 .idea/
 .vscode/

@@ -19,8 +19,17 @@ A beautiful, WhatsApp Web-style archive viewer for reading and searching your ex
 
 ## Screenshots
 
-<!-- TODO: Add screenshots -->
-*Coming soon*
+### Home - Conversation List
+![Home](screenshots/01-home.png)
+
+### Chat View - WhatsApp Web Style
+![Chat View](screenshots/02-chat-view.png)
+
+### Group Chat with Media
+![Group Chat](screenshots/03-group-chat.png)
+
+### Analytics Dashboard
+![Analytics](screenshots/05-analytics.png)
 
 ## Quick Start
 
